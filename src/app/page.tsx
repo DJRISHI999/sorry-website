@@ -131,7 +131,7 @@ function ForgivenessLetter() {
             <div className="mt-4 text-center animate-fade-in delay-200">
               <span className="block text-pink-500 text-lg font-bold">Please, I am soooo sorry! 🙏🥺</span>
               <span className="block text-pink-400 text-base mt-1">I am so sorryyyyyyyyyy 😭💔</span>
-              {noTries > 2 && <span className="block text-pink-400 text-base mt-1">I'll keep saying sorry until you forgive me! 😭🙏</span>}
+              {noTries > 2 && <span className="block text-pink-400 text-base mt-1">I&apos;ll keep saying sorry until you forgive me! 😭🙏</span>}
             </div>
           )}
         </div>
