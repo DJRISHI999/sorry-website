@@ -140,7 +140,7 @@ function ForgivenessLetter() {
       {forgiven && (
         <div className="flex flex-col items-center gap-4 mt-6 animate-fade-in delay-500">
           <span className="text-2xl font-bold text-green-500 animate-bounce">Yay! Thank you for forgiving me! 🥰🍍</span>
-          <span className="text-lg text-pink-500">You’re the best, Pineapple! Let’s make more sweet memories together! 💖</span>
+          <span className="text-lg text-pink-500">You&apos;re the best, Pineapple! Let&apos;s make more sweet memories together! 💖</span>
         </div>
       )}
       <div className="flex flex-col gap-2 w-full mt-4 animate-fade-in delay-700">
