@@ -99,7 +99,7 @@ function ForgivenessLetter() {
       <h1 className="text-4xl sm:text-5xl font-extrabold text-pink-600 text-center drop-shadow-lg animate-fade-in">Sorry, Pineapple <span className="inline-block animate-bounce">💖</span></h1>
       <div className="flex flex-col items-center gap-2">
         <span className="text-lg text-gray-700 text-center max-w-xl animate-fade-in delay-200">
-          I know I messed up, and I want you to know how truly sorry I am. Our friendship means the world to me, and I never want to hurt you. Please forgive me and let’s make more amazing memories together!
+          I know I messed up, and I want you to know how truly sorry I am. Our friendship means the world to me, and I never want to hurt you. Please forgive me and let&apos;s make more amazing memories together!
         </span>
         <div className="mt-6 flex flex-col items-center gap-1 animate-fade-in delay-300">
           <span className="text-pink-400 font-semibold text-lg">I owe you...</span>
